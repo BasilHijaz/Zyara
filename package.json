@@ -1,0 +1,20 @@
+{
+  "name": "final-project",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "firebase": "6.3.1",
+    "react-native-awesome-alerts": "1.2.0",
+    "react-native-drop-down-item": "1.0.5",
+    "react-native-elements": "1.1.0",
+    "react-native-keyboard-aware-scroll-view": "0.8.0",
+    "react-native-paper": "2.15.2",
+    "react-navigation": "3.11.1"
+  }
+}
